@@ -15,4 +15,4 @@ This is an application that uses express.js to save and retrieve note data from 
 Email: markdrecoll@gmail.com
   
 ## Screenshot
-![notetakerscreen](https://user-images.githubusercontent.com/77694281/116840739-a667cb00-ab9c-11eb-8984-6b7e5f2092e2.PNG | wdith=300 height=300)
+<img src="https://user-images.githubusercontent.com/77694281/116840739-a667cb00-ab9c-11eb-8984-6b7e5f2092e2.PNG" width="300" height="300">
